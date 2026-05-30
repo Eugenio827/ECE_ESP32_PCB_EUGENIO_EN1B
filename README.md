@@ -22,4 +22,4 @@ This project is a custom PCB design using ESP32 for [purpose].
 Mark Edrian Eugenio
 
 # Course & Section
-ECE - EN1A
+ECE - EN1B
